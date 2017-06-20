@@ -1,0 +1,2 @@
+# fancygo.github.io
+FancyGo
