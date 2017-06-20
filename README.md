@@ -2,11 +2,7 @@
 
 Hi, everyone, my name is Fancy. I am a programmer. I love Golang very much, so I give myself a name [FancyGo](https://github.com/FancyGo).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I want to do something to improve my skill. So I create this blog to record my learning.
 
 ```markdown
 Syntax highlighted code block
